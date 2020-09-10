@@ -1,0 +1,13 @@
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.exe
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.deps.json
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.json
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.runtimeconfig.dev.json
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\bin\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csprojAssemblyReference.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfoInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.AssemblyInfo.cs
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.dll
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\Encapsulamento\obj\Debug\netcoreapp3.1\Encapsulamento.genruntimeconfig.cache

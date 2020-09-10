@@ -1,0 +1,13 @@
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\bin\Debug\netcoreapp3.1\Alguel.exe
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\bin\Debug\netcoreapp3.1\Alguel.deps.json
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\bin\Debug\netcoreapp3.1\Alguel.runtimeconfig.json
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\bin\Debug\netcoreapp3.1\Alguel.runtimeconfig.dev.json
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\bin\Debug\netcoreapp3.1\Alguel.dll
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\bin\Debug\netcoreapp3.1\Alguel.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.csprojAssemblyReference.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.AssemblyInfoInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.AssemblyInfo.cs
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.dll
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\Alguel\obj\Debug\netcoreapp3.1\Alguel.genruntimeconfig.cache

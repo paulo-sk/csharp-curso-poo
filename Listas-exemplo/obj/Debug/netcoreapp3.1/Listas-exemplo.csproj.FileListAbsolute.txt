@@ -1,0 +1,13 @@
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\bin\Debug\netcoreapp3.1\Listas-exemplo.exe
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\bin\Debug\netcoreapp3.1\Listas-exemplo.deps.json
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\bin\Debug\netcoreapp3.1\Listas-exemplo.runtimeconfig.json
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\bin\Debug\netcoreapp3.1\Listas-exemplo.runtimeconfig.dev.json
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\bin\Debug\netcoreapp3.1\Listas-exemplo.dll
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\bin\Debug\netcoreapp3.1\Listas-exemplo.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.AssemblyInfoInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.AssemblyInfo.cs
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.dll
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.genruntimeconfig.cache
+C:\Users\pk\source\repos\curso-csharp-poo\Listas-exemplo\obj\Debug\netcoreapp3.1\Listas-exemplo.csprojAssemblyReference.cache
