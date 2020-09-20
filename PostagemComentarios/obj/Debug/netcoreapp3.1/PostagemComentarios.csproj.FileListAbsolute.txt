@@ -1,0 +1,13 @@
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\bin\Debug\netcoreapp3.1\PostagemComentarios.exe
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\bin\Debug\netcoreapp3.1\PostagemComentarios.deps.json
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\bin\Debug\netcoreapp3.1\PostagemComentarios.runtimeconfig.json
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\bin\Debug\netcoreapp3.1\PostagemComentarios.runtimeconfig.dev.json
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\bin\Debug\netcoreapp3.1\PostagemComentarios.dll
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\bin\Debug\netcoreapp3.1\PostagemComentarios.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.csprojAssemblyReference.cache
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.AssemblyInfoInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.AssemblyInfo.cs
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.csproj.CoreCompileInputs.cache
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.dll
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.pdb
+C:\Users\pk\source\repos\curso-csharp-poo\PostagemComentarios\obj\Debug\netcoreapp3.1\PostagemComentarios.genruntimeconfig.cache
